@@ -1,7 +1,9 @@
 # First-and-Follow
+
 Implementation of first and follow generator for compiler designing in python
 
 # How to
+
 write your rules in the [input_rules.txt](https://github.com/mehedi-shafi/First-and-Follow/blob/master/input_rules.txt)
   **you have to write the rule in following format**
   *S->Ab|0*
