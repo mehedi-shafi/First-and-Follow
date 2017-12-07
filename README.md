@@ -6,6 +6,7 @@ write your rules in the [input_rules.txt](https://github.com/mehedi-shafi/First-
   **you have to write the rule in following format**
   *S->Ab|0*
   > here '|' is for `or` and '0' defines `empty string` or `ϵ`
+
 run the [first_and_follow.py](https://github.com/mehedi-shafi/First-and-Follow/blob/master/first_n_follow.py) to run and show the first and follow in terminal.
 
 `python first_and_follow.py`
