@@ -20,4 +20,4 @@ _or_ you can run the notebook to get detailed way of how the code works in block
 
 `juypter-notebook first_n_follow.ipynub`
 
-Thanks hope it helps.
+Thanks. Hope it helps.
